@@ -5,28 +5,6 @@
             "last_updated": "June 19, 2025"
         }
     },
-    "Guajira II": {
-        "Resolución No. 01511": {
-            "filename": "1649817_2021827LAV0038-00-2020ResolucionLicenciaGuajiraIIrevVF.pdf",
-            "last_updated": "June 19, 2025"
-        }
-    },
-    "Windpeshi": {
-        "Resolución No. 00261": {
-            "filename": "1366435_2020213RESOLUCIONLICENCIAWindpeshIverfinalSILAajustado.pdf",
-            "last_updated": "June 19, 2025"
-        }
-    },
-    "Trupillo": {
-        "Resolución No. 000450": {
-            "filename": "2256500_2024318SILA_FINAL_RES_RESUELVERECURSO_LAV0026-00-2023.pdf",
-            "last_updated": "June 19, 2025"
-        },
-        "Resolución No. 003136": {
-            "filename": "2207112_20231228R_NUEVAPLANTILLA_LAV0026-00-2023_VF.pdf",
-            "last_updated": "June 19, 2025"
-        }
-    },
     "Beta": {
         "Resolución No. 01554": {
             "filename": "07-09-2021-anla-res-01554-2092021.pdf",
@@ -34,22 +12,6 @@
         },
         "Resolución No. 01555": {
             "filename": "1278186_201982ResolucionotorgaLAEOLOSVFinal2.pdf",
-            "last_updated": "June 19, 2025"
-        }
-    },
-    "Jouktai": {
-        "Resolución No. 00445": {
-            "filename": "RESOLUCIÓN-No.-0445-DEL-17-DE-MARZO-DE-2015.pdf",
-            "last_updated": "June 19, 2025"
-        },
-        "Resolución No. 03357": {
-            "filename": "3357-29-dic-2009.pdf",
-            "last_updated": "June 19, 2025"
-        }
-    },
-    "EO200i": {
-        "Resolución No. 01743": {
-            "filename": "RESOLUCIÓN-No.-0445-DEL-17-DE-MARZO-DE-2015.pdf",
             "last_updated": "June 19, 2025"
         }
     },
@@ -63,7 +25,7 @@
             "last_updated": "June 19, 2025"
         },
         "Resolución No. 002962": {
-            "filename": "camlias_2289291_202456FINAL_AUTOSUSPENDETERMINOS_DANCP-LAM9338-00.pdf",
+            "filename": "camelias_2289291_202456FINAL_AUTOSUSPENDETERMINOS_DANCP-LAM9338-00.pdf",
             "last_updated": "June 19, 2025"
         },
         "AUTO No. 000086": {
@@ -77,7 +39,7 @@
             "last_updated": "June 19, 2025"
         },
         "Resolución No. 002962": {
-            "filename": "camlias_2289291_202456FINAL_AUTOSUSPENDETERMINOS_DANCP-LAM9338-00.pdf",
+            "filename": "camelias_2289291_202456FINAL_AUTOSUSPENDETERMINOS_DANCP-LAM9338-00.pdf",
             "last_updated": "June 19, 2025"
         },
         "AUTO No. 000086": {
@@ -95,11 +57,49 @@
             "last_updated": "June 19, 2025"
         },
         "Resolución No. 002962": {
-            "filename": "camlias_2289291_202456FINAL_AUTOSUSPENDETERMINOS_DANCP-LAM9338-00.pdf",
+            "filename": "camelias_2289291_202456FINAL_AUTOSUSPENDETERMINOS_DANCP-LAM9338-00.pdf",
             "last_updated": "June 19, 2025"
         },
         "AUTO No. 000086": {
             "filename": "camelias_2212191_2024112ML_LAM9338-00RevccBP.pdf",
+            "last_updated": "June 19, 2025"
+        }
+    },
+    "EO200i": {
+        "Resolución No. 01743": {
+            "filename": "RESOLUCIÓN-No.-0445-DEL-17-DE-MARZO-DE-2015.pdf",
+            "last_updated": "June 19, 2025"
+        }
+    },
+    "Guajira II": {
+        "Resolución No. 01511": {
+            "filename": "1649817_2021827LAV0038-00-2020ResolucionLicenciaGuajiraIIrevVF.pdf",
+            "last_updated": "June 19, 2025"
+        }
+    },
+    "Jouktai": {
+        "Resolución No. 00445": {
+            "filename": "RESOLUCIÓN-No.-0445-DEL-17-DE-MARZO-DE-2015.pdf",
+            "last_updated": "June 19, 2025"
+        },
+        "Resolución No. 03357": {
+            "filename": "3357-29-dic-2009.pdf",
+            "last_updated": "June 19, 2025"
+        }
+    },
+    "Trupillo": {
+        "Resolución No. 000450": {
+            "filename": "2256500_2024318SILA_FINAL_RES_RESUELVERECURSO_LAV0026-00-2023.pdf",
+            "last_updated": "June 19, 2025"
+        },
+        "Resolución No. 003136": {
+            "filename": "2207112_20231228R_NUEVAPLANTILLA_LAV0026-00-2023_VF.pdf",
+            "last_updated": "June 19, 2025"
+        }
+    },
+    "Windpeshi": {
+        "Resolución No. 00261": {
+            "filename": "1366435_2020213RESOLUCIONLICENCIAWindpeshIverfinalSILAajustado.pdf",
             "last_updated": "June 19, 2025"
         }
     }
